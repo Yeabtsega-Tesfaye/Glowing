@@ -15,6 +15,9 @@
 
   <a href="https://Yeabtsega-Tesfaye.github.io/glowing"><strong>➥ Live Demo</strong></a>
 
+  <a href="https://Yeabtsega-Tesfaye.github.io/Glowing/"><strong>➥ Live Demo</strong></a>
+
+
 </div>
 
 <br />
